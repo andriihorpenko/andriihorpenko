@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hey, I'm Andrii 👋
 
-<!--
-**andriihorpenko/andriihorpenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Who am I?
 
-Here are some ideas to get you started:
+I'm a full-stack web developer. That's it. What did you expect? 🤔
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What is my hobby?
+
+Still coding. I love coding in Kotlin and Java in my spare time. Concidering switching to one of them as my next primary language.
+
+### What am I using to code?
+
+<img align="left" alt="JetBrains" width="50px" src="https://kotlinlang.org/assets/jetbrains-logo.svg" />
+<br />
+<br />
+
+---
+
+<img align="left" alt="Mgazul Github Stats" src="https://github-readme-stats.vercel.app/api?username=andriihorpenko&show_icons=true&hide_border=true&theme=radical" />
